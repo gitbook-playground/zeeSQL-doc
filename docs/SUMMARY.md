@@ -42,7 +42,7 @@
 * [index](index.md)
 * [References](references.md)
 * [zeeSQL, a solid product for busy developer](pro.md)
-* [tutorial](tutorial.md)
+* [Tutorial](tutorial.md)
 * [Pricing for zeeSQL](pricing.md)
 * [FAQs](faqs.md)
 * [Motivation](motivations.md)
