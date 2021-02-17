@@ -1,3 +1,7 @@
+---
+title: Tutorial
+---
+
 # Tutorial
 
 ## Setting up the environment
